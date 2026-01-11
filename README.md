@@ -16,3 +16,5 @@ Technologies Used
 - VGG-Face (pre-trained model)
 - NumPy, Pandas, OpenCV (for image processing)
 
+[View Paper](./doc/Paper.pdf)
+[View User Manual](/User%20Manual.pdf)
